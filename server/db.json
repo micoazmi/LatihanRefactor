@@ -1,0 +1,68 @@
+{
+  "habits": [
+    {
+      "name": "tess",
+      "description": "tess",
+      "startDate": "2024-01-15",
+      "reward": "10000",
+      "interval": "weekly",
+      "id": 11
+    },
+    {
+      "name": "asdsadas",
+      "description": "dasdsadas",
+      "startDate": "2024-01-15",
+      "reward": "21313",
+      "interval": "monthly",
+      "id": 14
+    },
+    {
+      "name": "tes",
+      "description": "tes",
+      "startDate": "2024-01-15",
+      "reward": "10000",
+      "interval": "daily",
+      "id": 17
+    },
+    {
+      "name": "tes",
+      "description": "nyapuu",
+      "startDate": "2024-01-15",
+      "reward": "10000",
+      "interval": "monthly",
+      "id": 18
+    },
+    {
+      "name": "tes131",
+      "description": "nyapu latar",
+      "startDate": "2024-01-15",
+      "reward": "10000",
+      "interval": "weekly",
+      "id": 21
+    },
+    {
+      "name": "tes",
+      "description": "tes",
+      "startDate": "2024-01-15",
+      "reward": "10000",
+      "interval": "weekly",
+      "id": 26
+    },
+    {
+      "name": "tes",
+      "description": "tes",
+      "startDate": "2024-01-24",
+      "reward": "12321321",
+      "interval": "weekly",
+      "id": 27
+    },
+    {
+      "name": "",
+      "description": "",
+      "startDate": "",
+      "reward": "",
+      "interval": "weekly",
+      "id": 28
+    }
+  ]
+}
